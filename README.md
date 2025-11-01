@@ -15,7 +15,7 @@
 
 ---
 
-## 🧩 Features
+## <img src="/gifs/pokeball-success.gif" width="48" height="48" /> Features
 
 - 🌍 **Explorable Overworld** — Move freely across tile-based maps with smooth camera follow and collision detection.  
 - ⚔️ **Turn-Based Battle System** — Classic Pokémon-style combat with HP, moves, and animations.  
@@ -46,7 +46,7 @@
 
 | Component | Technology |
 |------------|-------------|
-| **Engine** | [Godot 4.3+](https://godotengine.org) |
+| **Engine** | [Godot 4.5+](https://godotengine.org) |
 | **Language** | GDScript |
 | **Data Format** | JSON |
 | **Assets** | Custom + OpenGameArt.org |
