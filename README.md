@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="/gifs/pokeball-success.gif" width="48" height="48" /> Features
+## <img src="/gifs/pikachu-kantocap.gif" width="48" height="48" /> Features
 
 - 🌍 **Explorable Overworld** — Move freely across tile-based maps with smooth camera follow and collision detection.  
 - ⚔️ **Turn-Based Battle System** — Classic Pokémon-style combat with HP, moves, and animations.  
@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="./gifs/pokeball-success.gif" width="32" height="32" />
-  <img src="./gengar-float.gif" width="50" height="50" />
+  <img src="./gif/mewtwo.gif" width="50" height="50" />
   <img src="./gifs/pokeball-success.gif" width="32" height="32" />
 </div>
 
