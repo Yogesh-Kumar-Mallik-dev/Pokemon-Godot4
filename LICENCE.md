@@ -1,4 +1,5 @@
 # QiForge–Nintendo Fan Project License (QNFPL-1.0)
+**Version 1.0 — November 2025**
 
 Copyright (c) 2025 **QiForge Organization**  
 All Pokémon names, creatures, and related trademarks are © **Nintendo / Game Freak / The Pokémon Company**.  
@@ -17,7 +18,7 @@ This license exists to allow students, hobbyists, and learners to **study and ex
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and its associated files (the “Software”), to **use, study, and modify** the Software for **personal learning, educational, and non-commercial** purposes, subject to the following conditions:
 
 - The Software may **not** be sold, monetized, or used to advertise, promote, or develop a commercial product.  
-- Redistribution or public hosting of modified versions must include **clear attribution** to both:
+- Redistribution or hosting of modified versions must include **clear and visible attribution** to::
   - **QiForge Organization** (for educational code and assets), and  
   - **Nintendo/Game Freak/The Pokémon Company** (for Pokémon IP references).
 
@@ -38,11 +39,13 @@ Recommended format for attribution:
 - No claim of ownership or endorsement by Nintendo or its affiliates is implied.  
 - Users must **not attempt to commercialize** any derivative or related work containing Pokémon IP.  
 
-If you wish to reuse only the *original programming systems or code structure* created under QiForge (without Pokémon IP), you may do so under the QiForge Open Learning License (QOLL-1.0).
+“Users who wish to reuse QiForge-authored code without Pokémon IP or trademarks may do so under the QiForge Open Learning License (QOLL-1.0), available in the QiForge Legal Repository.”
 
 ---
 
 ## 5. Prohibited Uses
+
+**Note**: Commercial usage includes but is not limited to selling copies, ad-monetized hosting, paid access, or promotional bundling.
 
 You may **not**:
 - Distribute or host this project for commercial gain.  
@@ -78,3 +81,10 @@ Any future redistribution or derivative work that wishes to **commercialize** th
 
 **QiForge — Learn. Build. Collaborate.**  
 https://qiforge.org  
+
+---
+
+**Repository License Reference:**  
+This project is licensed under the *QiForge–Nintendo Fan Project License (QNFPL-1.0)*.  
+See [LICENSE.md](./LICENSE.md) for complete terms.
+
