@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="/gifs/pokeball-success.gif" width="48" height="48" />
-  <img src="./pikachu-dance.gif" width="60" height="60" />
+  <img src="/gifs/charizard-megay.gif" width="60" height="60" />
   <img src="/gifs/charizard.gif" width="70" height="70" />
   <img src="./gifs/pokeball-success.gif" width="48" height="48" />
 </div>
