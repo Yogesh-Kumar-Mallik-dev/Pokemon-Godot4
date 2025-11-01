@@ -57,21 +57,34 @@
 ## 🗂️ Project Structure
 
 ```
-godot-pokemon-clone/
+Pokemon-Godot4/
 │
-├── gifs/
-├── assets/                # Sprites, tilesets, icons, etc.
-├── scenes/                # Game scenes (.tscn)
-├── scripts/               # GDScript files
-│   ├── player.gd
-│   ├── enemy.gd
-│   ├── battle_manager.gd
-│   ├── data_loader.gd
-│   └── main.gd
-├── data/                  # JSON files for Pokémon, moves, etc.
-├── docs/                  # Screenshots, gifs, banner, etc.
+├── assets/              # Sprites, tilesets, sounds, UI
+│   ├── characters/
+│   ├── maps/
+│   ├── ui/
+│   └── audio/
+│
+├── scenes/              # Godot scenes
+│   ├── world/
+│   ├── battles/
+│   └── menus/
+│
+├── scripts/             # GDScript files
+│   ├── systems/
+│   ├── player/
+│   ├── pokemon/
+│   └── ui/
+│
+├── data/                # JSON or CSV data (Pokémon, items, etc.)
+│
+├── gifs/                # For README and showcase visuals
+│
+├── project.godot        # Core Godot project file
+├── .gitignore
 ├── README.md
-└── LICENSE
+└── LICENSE.md
+
 ```
 
 ---
