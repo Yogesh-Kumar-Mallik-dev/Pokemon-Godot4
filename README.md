@@ -1,7 +1,7 @@
 # <img src="./gifs/pokeball-success.gif" width="32" height="32" /> Pokémon-Style RPG (Godot 4) <img src="/gifs/pokeball-success.gif" width="32" height="32" />
 
 <div align="center">
-  <img src="https://github.com/Yogesh-Kumar-Mallik-dev/godot-pokemon-clone/blob/main/docs/banner.png?raw=true" width="100%" alt="Game Banner" />
+  <img src="/gifs/pokemon-banner.gif" width="100%" alt="Game Banner" />
 </div>
 
 <div align="center">
