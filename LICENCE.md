@@ -86,5 +86,5 @@ https://qiforge.org
 
 **Repository License Reference:**  
 This project is licensed under the *QiForge–Nintendo Fan Project License (QNFPL-1.0)*.  
-See [LICENSE.md](./LICENSE.md) for complete terms.
+See [LICENSE.md](LICENSE.md) for complete terms.
 
